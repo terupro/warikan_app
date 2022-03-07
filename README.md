@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-# 画像
-<img src="https://user-images.githubusercontent.com/92189386/157013570-86f0c14b-b283-4393-afcd-a69fb6521a42.png" width=“100”>
+## 画像
+<img src="https://user-images.githubusercontent.com/92189386/157013570-86f0c14b-b283-4393-afcd-a69fb6521a42.png" width=“300”>
 
 ## Getting Started
 
